@@ -1,0 +1,14 @@
+{
+    "name": "ebo/dummy-pkg",
+    "description": "Dummy package",
+    "type": "metapackage",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Michał Włodarczyk",
+            "email": "m.wlodarczyk@i-bs.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
